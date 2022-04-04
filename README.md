@@ -3,7 +3,7 @@
 
 ## Requisitos
 
-[x] Deve ser possível Criar um novo usuário 
+[x] Deve ser possível Criar um novo usuário </br>
 [x] Deve ser possível Listar tarefas do usuário
 [x] Deve ser possível Criar uma nova tarefa
 [x] Deve ser possível Atualizar a tarefa (*title* | *deadline*)
